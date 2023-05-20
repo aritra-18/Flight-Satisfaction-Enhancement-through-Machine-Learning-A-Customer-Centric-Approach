@@ -6,10 +6,10 @@ The objective of this project was to build a predictive model to determine custo
 
 
 The key takeaways from this project are as follows:
-    •	Data exploration, cleaning, and encoding are crucial steps in preparing the data for model building.
-    •	It is recommended to use a separate validation set for model tuning to avoid bias in evaluation.
-    •	F1 scores are more informative than accuracy scores, especially when the costs of false positives and false negatives differ        significantly.
-    •	The random forest model outperformed the decision tree model, demonstrating superior predictive performance.
+- Data exploration, cleaning, and encoding are crucial steps in preparing the data for model building.
+- It is recommended to use a separate validation set for model tuning to avoid bias in evaluation.
+- F1 scores are more informative than accuracy scores, especially when the costs of false positives and false negatives differ        significantly.
+- The random forest model outperformed the decision tree model, demonstrating superior predictive performance.
     
     
 The random forest model achieved impressive results, with over 94.2% accuracy, precision exceeding 95%, and recall approximately 94.5%. These metrics indicate that the model is highly accurate in predicting customer satisfaction. The random forest model consistently outperformed the tuned decision tree model in all evaluation scores, suggesting its potential for better performance.
