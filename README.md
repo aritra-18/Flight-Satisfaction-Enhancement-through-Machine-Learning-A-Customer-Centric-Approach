@@ -7,9 +7,10 @@ This project aimed to predict customer satisfaction with an airline using machin
 
 Key Takeaways:
 
-Data exploration, cleaning, and encoding are vital for preparing the data.
-Use a separate validation set for unbiased model evaluation.
-F1 scores provide more informative evaluation, especially when costs of false positives and false negatives differ.
-The random forest model outperformed the decision tree model, achieving high accuracy, precision, and recall.
-Important factors for customer satisfaction: "Inflight entertainment," "Seat comfort," and "Ease of Online booking."
+- Data exploration, cleaning, and encoding are vital for preparing the data.
+- Use a separate validation set for unbiased model evaluation.
+- F1 scores provide more informative evaluation, especially when costs of false positives and false negatives differ.
+- The random forest model outperformed the decision tree model, achieving high accuracy, precision, and recall.
+- Important factors for customer satisfaction: "Inflight entertainment," "Seat comfort," and "Ease of Online booking."
+
 The random forest model demonstrated superior performance, indicating its potential for accurate prediction. Improving "Inflight entertainment," "Seat comfort," and "Ease of Online booking" can enhance customer satisfaction. Further investment in model building is recommended. Refer to the accompanying documentation for code and analysis.
